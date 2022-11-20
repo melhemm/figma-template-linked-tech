@@ -1,4 +1,3 @@
-# figma-template-linked-tech
-
+# linked-tech
 # https://linked-tech-template.netlify.app/
-# https://www.figma.com/file/a6gNKytofLkQhqjbaj19Os/LinkedTech?node-id=0%3A1
+* Лендинг сделан на Flexbox - Grid без framework. Адаптивная верстка позволяет корректно просматривать его на разных устройствах. 
